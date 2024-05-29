@@ -1,0 +1,12 @@
+.header{
+    width: 58.5rem;
+    height: 2rem;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    background-color: rgba(212, 209, 209, 0.681);
+}
+.a1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
